@@ -8,7 +8,7 @@ The model analyzes account features such as followers count, posts, and profile 
 to predict whether an account is fake or real.
 
 ## Demo
-> App built with Streamlit — enter account details and get instant prediction.
+> 🚀 **[Live Demo — Try it here!](https://fakeaccountdetector-avrdttpbcskzj5k4xwgkpr.streamlit.app/)**
 
 ## Dataset
 - **Source:** Kaggle — Fake and Real Social Media Accounts
