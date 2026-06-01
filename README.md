@@ -1,4 +1,6 @@
-# 🤖 Social Media Fake Account Detector
+git add Data/fake_users.csv Data/real_users.csv
+git commit -m "Add dataset files"
+git push# 🤖 Social Media Fake Account Detector
 
 ## Project Overview
 A Machine Learning project that detects fake accounts on social media platforms.
